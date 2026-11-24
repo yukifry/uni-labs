@@ -24,6 +24,6 @@ int main()
 		y = log10(x + 1);
 		cout << "y -->  " << y;
 	}
-	
+	return 0;
 }
 
