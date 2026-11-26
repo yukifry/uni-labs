@@ -48,6 +48,7 @@ int main()
 			else
 			{
 				cout << "Invalid type of work entered" << endl;;
+				return 0;
 			}
 		}
 			
